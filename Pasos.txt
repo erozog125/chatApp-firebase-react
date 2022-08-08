@@ -1,0 +1,10 @@
+1. Crear proyecto de ReactJs
+2. Crear proyecto firebase
+3. npm install firebase react-moment moment-timezone
+4. Crear carpeta llamada context en src, y posteriormente un archivo llamado auth.js
+5. intalar React-router dom
+6.en archivo auth.js 
+
+-----------------
+Certificado 
+cargo y funciones
